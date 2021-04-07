@@ -1,22 +1,10 @@
-
 /* ./src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-*,*:focus,*:hover{
-    outline:none;
-}
-
-.custom-col-1{
-    background-color: hsl(31, 77%, 52%);
-}
-
-.custom-col-2{
-background-color: hsl(184, 100%, 22%);
-}
-
-.custom-col-3{
-background-color: hsl(179, 100%, 13%);
+*,
+*:focus,
+*:hover {
+  outline: none;
 }
